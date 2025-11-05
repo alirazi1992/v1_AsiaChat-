@@ -5,7 +5,7 @@
   "scripts": {
     "build": "next build",
     "dev": "next dev",
-    "lint": "eslint .",
+    "lint": "next lint",
     "start": "next start"
   },
   "dependencies": {
@@ -70,7 +70,6 @@
     "tailwind-merge": "^2.5.5",
     "tailwindcss-animate": "^1.0.7",
     "use-sync-external-store": "latest",
-    "vaul": "^0.9.9",
     "vitest": "latest",
     "zod": "3.25.76",
     "zustand": "latest"
